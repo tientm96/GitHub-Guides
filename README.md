@@ -1,5 +1,2 @@
-# hello-word
 
-Just another repository
-
-Tiến đẹp trai nè.
+Lần 2 tao xóa hết rồi thêm vào câu này nhé.
